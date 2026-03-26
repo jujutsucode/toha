@@ -1,3 +1,3 @@
-module github.com/jujutsucode/toha/v4
+module github.com/jujutsucode/toha
 
-go 1.21
+go 1.26.1
